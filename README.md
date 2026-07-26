@@ -79,23 +79,3 @@
 📌 *This README updates automatically — stay tuned for more cool projects.*
 
 
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bunty3545&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunty3545&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bunty3545&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔥 Streak Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bunty3545&theme=radical&hide_border=true)
-
-### 📅 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bunty3545&theme=radical&hide_border=true)
